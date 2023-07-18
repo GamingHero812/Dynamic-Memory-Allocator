@@ -1,0 +1,9 @@
+break mm_malloc
+break mm_free
+break mm_init
+break extend_heap
+break coalesce_block
+break insert_node
+break remove_node
+break split_block
+break find_fit
